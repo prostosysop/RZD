@@ -22,7 +22,9 @@ Hakaton
 Файлы с данными:
 
 statistics-07-20.csv - предоставлен организатором
+
 df_includes_2.csv
+
 df_includes_check_poezd.csv
 
 Этапы работы:
