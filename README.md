@@ -30,6 +30,9 @@ ETL.ipynb
 
 Clear_data.ipynb (неудачная попытка)
 
+ссылки на Colab - файл url.txt
+
+
 Файлы с данными:
 
 statistics-07-20.csv - предоставлен организатором
