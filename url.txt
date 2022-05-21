@@ -1,0 +1,4 @@
+ETL 
+https://colab.research.google.com/drive/116y0NgMjRz7Q9hQQrjN2TQ_o9DTt139y?usp=sharing
+Clear_data (неудачный вариант)
+https://colab.research.google.com/drive/1pHlrg1E2Dy0rR_NG3ixZMUArX6Cv_KnO?usp=sharing
